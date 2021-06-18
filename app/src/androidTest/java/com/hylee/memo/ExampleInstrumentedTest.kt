@@ -1,4 +1,4 @@
-package com.shedulemate.memo
+package com.hylee.memo
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

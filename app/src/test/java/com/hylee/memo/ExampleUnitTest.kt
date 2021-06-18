@@ -1,4 +1,4 @@
-package com.shedulemate.memo
+package com.hylee.memo
 
 import org.junit.Test
 
